@@ -1,0 +1,6 @@
+framework module Pods_appsflyer_hello_world {
+  umbrella header "Pods-appsflyer_hello_world-umbrella.h"
+
+  export *
+  module * { export * }
+}
